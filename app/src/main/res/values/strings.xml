@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MathRush</string>
+    <string name="gameTypeBest">Best</string>
+    <string name="gameTypeTime">Time</string>
+    <string name="gameTypeTimeDescription">Selected game type: Time\nSolve 10 tasks correctly as fast as possible</string>
+    <string name="gameTypeBestDescription">Selected game type: Best\nSolve as much tasks as possible within 20 seconds</string>
+    <string name="gameNameAdd1">Addition 1</string>
+    <string name="gameNameAdd2">Addition 2</string>
+    <string name="gameNameAdd3">Addition 3</string>
+    <string name="gameNameAdd4">Addition 4</string>
+    <string name="gameNameAdd5">Addition 5</string>
+    <string name="gameNameAdd6">Addition 6</string>
+    <string name="gameNameAdd7">Addition 7</string>
+    <string name="gameNameAdd8">Addition 8</string>
+    <string name="gameNameSub1">Subtraction 1</string>
+    <string name="gameNameSub2">Subtraction 2</string>
+    <string name="gameNameSub3">Subtraction 3</string>
+    <string name="gameNameSub4">Subtraction 4</string>
+    <string name="gameNameSub5">Subtraction 5</string>
+    <string name="gameNameSub6">Subtraction 6</string>
+    <string name="gameNameSub7">Subtraction 7</string>
+    <string name="gameNameSub8">Subtraction 8</string>
+    <string name="gameNameMul1">Multiplication 1</string>
+    <string name="gameNameMul2">Multiplication 2</string>
+    <string name="gameNameMul3">Multiplication 3</string>
+    <string name="gameNameDiv1">Division 1</string>
+    <string name="gameNameDiv2">Division 2</string>
+    <string name="gameNameDiv3">Division 3</string>
+    <string name="gameNameMod1">Modulo 1</string>
+    <string name="gameNameMod2">Modulo 2</string>
+    <string name="gameNameMod3">Modulo 3</string>
+    <string name="gameNameExp1">Exponentiation 1</string>
+    <string name="gameNameExp2">Exponentiation 2</string>
+    <string name="gameNameExp3">Exponentiation 3</string>
+
+    <string name="taskExample">Task example:</string>
+    <string name="taskExampleAdd1">3 + 4</string>
+    <string name="taskExampleAdd2">55 + 36</string>
+    <string name="taskExampleAdd3">134 + 429</string>
+    <string name="taskExampleAdd4">1564 + 7743</string>
+    <string name="taskExampleAdd5">7 + (-2)</string>
+    <string name="taskExampleAdd6">-72 + 54</string>
+    <string name="taskExampleAdd7">-126 + (-342)</string>
+    <string name="taskExampleAdd8">4205 + (-2305)</string>
+    <string name="taskExampleSub1" tools:ignore="TypographyDashes">7 - 6</string>
+    <string name="taskExampleSub2" tools:ignore="TypographyDashes">76 - 23</string>
+    <string name="taskExampleSub3" tools:ignore="TypographyDashes">956 - 357</string>
+    <string name="taskExampleSub4" tools:ignore="TypographyDashes">9353 - 8412</string>
+    <string name="taskExampleSub5" tools:ignore="TypographyDashes">3 - 7</string>
+    <string name="taskExampleSub6" tools:ignore="TypographyDashes">45 - 99</string>
+    <string name="taskExampleSub7" tools:ignore="TypographyDashes">342 - 375</string>
+    <string name="taskExampleSub8" tools:ignore="TypographyDashes">1638 - 4028</string>
+    <string name="taskExampleMul1">6 * 3</string>
+    <string name="taskExampleMul2">14 * 7</string>
+    <string name="taskExampleMul3">45 * 23</string>
+    <string name="taskExampleDiv1">27 / 3</string>
+    <string name="taskExampleDiv2">99 / 9</string>
+    <string name="taskExampleDiv3">646 / 17</string>
+    <string name="taskExampleMod1">6 % 5</string>
+    <string name="taskExampleMod2">45 % 8</string>
+    <string name="taskExampleMod3">965 % 7</string>
+    <string name="taskExampleExp1">4 ^ 2</string>
+    <string name="taskExampleExp2">17 ^ 2</string>
+    <string name="taskExampleExp3">8 ^ 3</string>
+    <string name="removeAll"><![CDATA[<<]]></string>
+    <string name="removeOne"><![CDATA[<]]></string>
+    <string name="timer">Timer</string>
+    <string name="points">Points</string>
+    <string name="replay">Solve again</string>
+    <string name="menu">To main screen</string>
+    <string name="failure">Failure</string>
+    <string name="success">Success</string>
+    <string name="newBest">New Record!</string>
+    <string name="best">"Best Record: "</string>
+    <string name="filter">Filter tasks:</string>
+    <string name="no_filter">All</string>
+</resources>
